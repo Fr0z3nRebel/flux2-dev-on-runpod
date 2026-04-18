@@ -1,0 +1,10 @@
+# PyTorch with CUDA is provided by the Dockerfile base image (pytorch/pytorch).
+runpod>=1.7.7
+diffusers>=0.37.0
+transformers>=4.50.0
+accelerate>=1.0.0
+safetensors>=0.4.0
+Pillow>=10.0.0
+huggingface_hub>=0.26.0
+requests>=2.31.0
+bitsandbytes>=0.44.0

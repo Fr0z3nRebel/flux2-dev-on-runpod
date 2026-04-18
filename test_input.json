@@ -1,0 +1,11 @@
+{
+  "input": {
+    "prompt": "A small red fox sitting in tall grass, soft morning light, detailed fur",
+    "width": 1024,
+    "height": 1024,
+    "num_inference_steps": 28,
+    "guidance_scale": 4.0,
+    "model_mode": "bnb4_remote",
+    "seed": 42
+  }
+}
